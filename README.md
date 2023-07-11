@@ -1,8 +1,8 @@
-# -Public-EasyToss
+# -Public-ReplicatedToss
 
 ![EasyTossLogo_288](https://github.com/Klian326/-Public-EasyToss/assets/48155922/c0d5c964-6327-4a3a-9cac-40757cc1c7e7)
 
-* [Wiki](https://github.com/Klian326/-Public-EasyToss/wiki)
+* [Wiki](https://github.com/Klian326/-Public-ReplicatedToss/wiki)
 
 ***
 
