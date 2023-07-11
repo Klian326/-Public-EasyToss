@@ -1,6 +1,6 @@
 # -Public-ReplicatedToss
 
-![EasyTossLogo_288](https://github.com/Klian326/-Public-EasyToss/assets/48155922/c0d5c964-6327-4a3a-9cac-40757cc1c7e7)
+![ReplicatedTossLogo256](https://github.com/Klian326/-Public-ReplicatedToss/assets/48155922/89709823-612e-4a47-a8df-6e383593da9b)
 
 * [Wiki](https://github.com/Klian326/-Public-ReplicatedToss/wiki)
 
